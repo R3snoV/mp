@@ -1,0 +1,886 @@
+<!doctype html>
+<html lang="fr-FR">
+<head>
+	<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>MehdiDigital</title>
+<meta name='robots' content='noindex, nofollow' />
+<link rel='dns-prefetch' href='//dev-mehdidigital.pantheonsite.io' />
+<link rel="alternate" type="application/rss+xml" title="MehdiDigital &raquo; Flux" href="https://dev-mehdidigital.pantheonsite.io/feed/" />
+<link rel="alternate" type="application/rss+xml" title="MehdiDigital &raquo; Flux des commentaires" href="https://dev-mehdidigital.pantheonsite.io/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css' href='https://dev-mehdidigital.pantheonsite.io/wp-includes/css/dashicons.min.css?ver=6.1.1' media='all' />
+<link rel='stylesheet' id='admin-bar-css' href='https://dev-mehdidigital.pantheonsite.io/wp-includes/css/admin-bar.min.css?ver=6.1.1' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.17.0' media='all' />
+<link rel='stylesheet' id='elementor-common-css' href='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/elementor/assets/css/common.min.css?ver=3.10.2' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://dev-mehdidigital.pantheonsite.io/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css' href='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=9.1.5' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css' href='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=9.1.5' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://dev-mehdidigital.pantheonsite.io/wp-includes/css/classic-themes.min.css?ver=1' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.3' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=7.3.0' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=7.3.0' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=7.3.0' media='all' />
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='woo-variation-swatches-css' href='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/woo-variation-swatches/assets/css/frontend.min.css?ver=1676138299' media='all' />
+<style id='woo-variation-swatches-inline-css'>
+:root {
+--wvs-tick:url("data:image/svg+xml;utf8,%3Csvg filter='drop-shadow(0px 0px 2px rgb(0 0 0 / .8))' xmlns='http://www.w3.org/2000/svg'  viewBox='0 0 30 30'%3E%3Cpath fill='none' stroke='%23ffffff' stroke-linecap='round' stroke-linejoin='round' stroke-width='4' d='M4 16L11 23 27 7'/%3E%3C/svg%3E");
+
+--wvs-cross:url("data:image/svg+xml;utf8,%3Csvg filter='drop-shadow(0px 0px 5px rgb(255 255 255 / .6))' xmlns='http://www.w3.org/2000/svg' width='72px' height='72px' viewBox='0 0 24 24'%3E%3Cpath fill='none' stroke='%23ff0000' stroke-linecap='round' stroke-width='0.6' d='M5 5L19 19M19 5L5 19'/%3E%3C/svg%3E");
+--wvs-single-product-item-width:30px;
+--wvs-single-product-item-height:30px;
+--wvs-single-product-item-font-size:16px}
+</style>
+<link rel='preload' as='font' type='font/woff2' crossorigin='anonymous' id='tinvwl-webfont-font-css' href='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/ti-woocommerce-wishlist/assets/fonts/tinvwl-webfont.woff2?ver=xu2uyi' media='all' />
+<link rel='stylesheet' id='tinvwl-webfont-css' href='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/ti-woocommerce-wishlist/assets/css/webfont.min.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='tinvwl-css' href='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/ti-woocommerce-wishlist/assets/css/public.min.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='hello-elementor-css' href='https://dev-mehdidigital.pantheonsite.io/wp-content/themes/hello-elementor/style.min.css?ver=2.6.1' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://dev-mehdidigital.pantheonsite.io/wp-content/themes/hello-elementor/theme.min.css?ver=2.6.1' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.10.2' media='all' />
+<link rel='stylesheet' id='elementor-post-23-css' href='https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/elementor/css/post-23.css?ver=1676454449' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/elementor/css/global.css?ver=1676454449' media='all' />
+<link rel='stylesheet' id='elementor-post-61-css' href='https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/elementor/css/post-61.css?ver=1676631213' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Domine%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.1.1' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script src='https://dev-mehdidigital.pantheonsite.io/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://dev-mehdidigital.pantheonsite.io/wp-json/" /><link rel="alternate" type="application/json" href="https://dev-mehdidigital.pantheonsite.io/wp-json/wp/v2/pages/61" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://dev-mehdidigital.pantheonsite.io/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://dev-mehdidigital.pantheonsite.io/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.1" />
+<meta name="generator" content="WooCommerce 7.3.0" />
+<link rel="canonical" href="https://dev-mehdidigital.pantheonsite.io/" />
+<link rel='shortlink' href='https://dev-mehdidigital.pantheonsite.io/' />
+<link rel="alternate" type="application/json+oembed" href="https://dev-mehdidigital.pantheonsite.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdev-mehdidigital.pantheonsite.io%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://dev-mehdidigital.pantheonsite.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdev-mehdidigital.pantheonsite.io%2F&#038;format=xml" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style media="print">#wpadminbar { display:none; }</style>
+	<style media="screen">
+	html { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+	}
+</style>
+	</head>
+<body class="home page-template-default page page-id-61 logged-in admin-bar no-customize-support theme-hello-elementor woocommerce-no-js woo-variation-swatches wvs-behavior-blur wvs-theme-hello-elementor wvs-show-label wvs-tooltip tinvwl-theme-style elementor-default elementor-kit-23 elementor-page elementor-page-61">
+
+	<script>
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+	
+			b[c] = b[c].replace( rcs, ' ' );
+			// The customizer requires postMessage and CORS (if the site is cross domain).
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	</script>
+			<div id="wpadminbar" class="nojq nojs">
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Barre d’outils">
+				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://dev-mehdidigital.pantheonsite.io/wp-admin/about.php'><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">À propos de WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='https://dev-mehdidigital.pantheonsite.io/wp-admin/about.php'>À propos de WordPress</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://fr.wordpress.org/'>Site de WordPress-FR</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://fr.wordpress.org/support/'>Documentation</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://wpfr.net/support'>Forums de support</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Vos retours</a></li></ul></div></li><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://dev-mehdidigital.pantheonsite.io/wp-admin/'>MehdiDigital</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-site-name-default' class="ab-submenu"><li id='wp-admin-bar-dashboard'><a class='ab-item' href='https://dev-mehdidigital.pantheonsite.io/wp-admin/'>Tableau de bord</a></li></ul><ul id='wp-admin-bar-appearance' class="ab-submenu"><li id='wp-admin-bar-themes'><a class='ab-item' href='https://dev-mehdidigital.pantheonsite.io/wp-admin/themes.php'>Thèmes</a></li><li id='wp-admin-bar-widgets'><a class='ab-item' href='https://dev-mehdidigital.pantheonsite.io/wp-admin/widgets.php'>Widgets</a></li><li id='wp-admin-bar-menus'><a class='ab-item' href='https://dev-mehdidigital.pantheonsite.io/wp-admin/nav-menus.php'>Menus</a></li></ul></div></li><li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='https://dev-mehdidigital.pantheonsite.io/wp-admin/customize.php?url=https%3A%2F%2Fdev-mehdidigital.pantheonsite.io%2F'>Personnaliser</a></li><li id='wp-admin-bar-updates'><a class='ab-item' href='https://dev-mehdidigital.pantheonsite.io/wp-admin/update-core.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label" aria-hidden="true">18</span><span class="screen-reader-text updates-available-text">18 mises à jour disponibles</span></a></li><li id='wp-admin-bar-comments'><a class='ab-item' href='https://dev-mehdidigital.pantheonsite.io/wp-admin/edit-comments.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 commentaire en modération</span></a></li><li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://dev-mehdidigital.pantheonsite.io/wp-admin/post-new.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">Créer</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-new-content-default' class="ab-submenu"><li id='wp-admin-bar-new-post'><a class='ab-item' href='https://dev-mehdidigital.pantheonsite.io/wp-admin/post-new.php'>Article</a></li><li id='wp-admin-bar-new-media'><a class='ab-item' href='https://dev-mehdidigital.pantheonsite.io/wp-admin/media-new.php'>Fichier média</a></li><li id='wp-admin-bar-new-page'><a class='ab-item' href='https://dev-mehdidigital.pantheonsite.io/wp-admin/post-new.php?post_type=page'>Page</a></li><li id='wp-admin-bar-new-e-landing-page'><a class='ab-item' href='https://dev-mehdidigital.pantheonsite.io/wp-admin/edit.php?action=elementor_new_post&#038;post_type=e-landing-page&#038;template_type=landing-page&#038;_wpnonce=fbc09968ff#library'>Landing Page</a></li><li id='wp-admin-bar-new-elementor_library'><a class='ab-item' href='https://dev-mehdidigital.pantheonsite.io/wp-admin/post-new.php?post_type=elementor_library'>Template</a></li><li id='wp-admin-bar-new-product'><a class='ab-item' href='https://dev-mehdidigital.pantheonsite.io/wp-admin/post-new.php?post_type=product'>Product</a></li><li id='wp-admin-bar-new-shop_order'><a class='ab-item' href='https://dev-mehdidigital.pantheonsite.io/wp-admin/post-new.php?post_type=shop_order'>Order</a></li><li id='wp-admin-bar-new-shop_coupon'><a class='ab-item' href='https://dev-mehdidigital.pantheonsite.io/wp-admin/post-new.php?post_type=shop_coupon'>Coupon</a></li><li id='wp-admin-bar-new-user'><a class='ab-item' href='https://dev-mehdidigital.pantheonsite.io/wp-admin/user-new.php'>Compte</a></li></ul></div></li><li id='wp-admin-bar-edit'><a class='ab-item' href='https://dev-mehdidigital.pantheonsite.io/wp-admin/post.php?post=61&#038;action=edit'>Modifier la page</a></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="https://dev-mehdidigital.pantheonsite.io/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Rechercher</label><input type="submit" class="adminbar-button" value="Rechercher" /></form></div></li><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='https://dev-mehdidigital.pantheonsite.io/wp-admin/profile.php'>Bonjour, <span class="display-name">Mehdi</span><img alt='' src='https://secure.gravatar.com/avatar/97fd7594d344fa52d476d3db239edf3b?s=26&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/97fd7594d344fa52d476d3db239edf3b?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' loading='lazy' decoding='async'/></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='https://dev-mehdidigital.pantheonsite.io/wp-admin/profile.php'><img alt='' src='https://secure.gravatar.com/avatar/97fd7594d344fa52d476d3db239edf3b?s=64&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/97fd7594d344fa52d476d3db239edf3b?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' loading='lazy' decoding='async'/><span class='display-name'>Mehdi</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='https://dev-mehdidigital.pantheonsite.io/wp-admin/profile.php'>Modifier le profil</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='https://dev-mehdidigital.pantheonsite.io/wp-login.php?action=logout&#038;_wpnonce=637c0a751c'>Se déconnecter</a></li></ul></div></li></ul>			</div>
+						<a class="screen-reader-shortcut" href="https://dev-mehdidigital.pantheonsite.io/wp-login.php?action=logout&#038;_wpnonce=637c0a751c">Se déconnecter</a>
+					</div>
+
+		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+<a class="skip-link screen-reader-text" href="#content">
+	Skip to content</a>
+
+<header id="site-header" class="site-header dynamic-header menu-dropdown-tablet" role="banner">
+	<div class="header-inner">
+		<div class="site-branding show-title">
+							<h1 class="site-title show">
+					<a href="https://dev-mehdidigital.pantheonsite.io/" title="Home" rel="home">
+						MehdiDigital					</a>
+				</h1>
+					</div>
+
+					<nav class="site-navigation show" role="navigation">
+				<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-61 current_page_item menu-item-231"><a href="https://dev-mehdidigital.pantheonsite.io/" aria-current="page">Home</a></li>
+<li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-234"><a href="https://dev-mehdidigital.pantheonsite.io/shop/">Shop</a>
+<ul class="sub-menu">
+	<li id="menu-item-236" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-236"><a href="https://dev-mehdidigital.pantheonsite.io/product-category/jacket/">Jacket</a>
+	<ul class="sub-menu">
+		<li id="menu-item-237" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-237"><a href="https://dev-mehdidigital.pantheonsite.io/product-category/t-shirt/">T-Shirt</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="https://dev-mehdidigital.pantheonsite.io/cart/">Cart</a></li>
+<li id="menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="https://dev-mehdidigital.pantheonsite.io/wishlist/">Wishlist</a></li>
+<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a href="https://dev-mehdidigital.pantheonsite.io/contact/">Contact</a></li>
+</ul></div>			</nav>
+			<div class="site-navigation-toggle-holder show">
+				<div class="site-navigation-toggle">
+					<i class="eicon-menu-bar"></i>
+					<span class="elementor-screen-only">Menu</span>
+				</div>
+			</div>
+			<nav class="site-navigation-dropdown show" role="navigation">
+				<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-61 current_page_item menu-item-231"><a href="https://dev-mehdidigital.pantheonsite.io/" aria-current="page">Home</a></li>
+<li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-234"><a href="https://dev-mehdidigital.pantheonsite.io/shop/">Shop</a>
+<ul class="sub-menu">
+	<li id="menu-item-236" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-236"><a href="https://dev-mehdidigital.pantheonsite.io/product-category/jacket/">Jacket</a>
+	<ul class="sub-menu">
+		<li id="menu-item-237" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-237"><a href="https://dev-mehdidigital.pantheonsite.io/product-category/t-shirt/">T-Shirt</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="https://dev-mehdidigital.pantheonsite.io/cart/">Cart</a></li>
+<li id="menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="https://dev-mehdidigital.pantheonsite.io/wishlist/">Wishlist</a></li>
+<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a href="https://dev-mehdidigital.pantheonsite.io/contact/">Contact</a></li>
+</ul></div>			</nav>
+			</div>
+</header>
+
+<main id="content" class="site-main post-61 page type-page status-publish hentry" role="main">
+			<header class="page-header">
+			<h1 class="entry-title">Home</h1>		</header>
+		<div class="page-content">
+				<div data-elementor-type="wp-page" data-elementor-id="61" class="elementor elementor-61">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-2d47559 elementor-section-height-min-height elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="2d47559" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1537af9" data-id="1537af9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-500ae53 elementor-widget elementor-widget-heading" data-id="500ae53" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.10.2 - 29-01-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">TOP SALE ON THE WEEK</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-bba43ca elementor-widget elementor-widget-heading" data-id="bba43ca" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Are you looking for quality clothing at reasonable prices? Do not search anymore !</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0885ddc elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="0885ddc" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://dev-mehdidigital.pantheonsite.io/shop/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Shop Now</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4ed0b68 elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="4ed0b68" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://dev-mehdidigital.pantheonsite.io/shop/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Learn More</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3ad5a1c elementor-hidden-tablet elementor-hidden-mobile" data-id="3ad5a1c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b01fb59 elementor-widget elementor-widget-spacer" data-id="b01fb59" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.10.2 - 29-01-2023 */
+.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}.e-con{--container-widget-width:100%}.e-con-inner>.elementor-widget-spacer,.e-con>.elementor-widget-spacer{width:var(--container-widget-width,var(--spacer-size));--align-self:var(--container-widget-align-self,initial);--flex-shrink:0}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container,.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer,.e-con>.elementor-widget-spacer>.elementor-widget-container,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer{height:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner{height:var(--container-widget-height,var(--spacer-size))}</style>		<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0d31375 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0d31375" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;none&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-b385706" data-id="b385706" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-68f549e elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="68f549e" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.10.2 - 29-01-2023 */
+.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="512" height="512" src="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/camion-de-livraison.png" class="attachment-full size-full wp-image-81" alt="" loading="lazy" srcset="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/camion-de-livraison.png 512w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/camion-de-livraison-300x300.png 300w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/camion-de-livraison-150x150.png 150w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/camion-de-livraison-100x100.png 100w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/camion-de-livraison-50x50.png 50w" sizes="(max-width: 512px) 100vw, 512px" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Free Shipping </h3></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-33ea338" data-id="33ea338" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9258a7d elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="9258a7d" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="512" height="512" src="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/money.png" class="attachment-full size-full wp-image-100" alt="" loading="lazy" srcset="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/money.png 512w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/money-300x300.png 300w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/money-150x150.png 150w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/money-100x100.png 100w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/money-50x50.png 50w" sizes="(max-width: 512px) 100vw, 512px" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Money Back Garantee</h3></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6c750ff" data-id="6c750ff" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-28edee3 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="28edee3" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="512" height="512" src="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/customer-service.png" class="attachment-full size-full wp-image-102" alt="" loading="lazy" srcset="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/customer-service.png 512w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/customer-service-300x300.png 300w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/customer-service-150x150.png 150w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/customer-service-100x100.png 100w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/customer-service-50x50.png 50w" sizes="(max-width: 512px) 100vw, 512px" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Support & Help</h3></div></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8041d90 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="8041d90" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-977faba" data-id="977faba" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-28185ed elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="28185ed" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;none&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-22591b1" data-id="22591b1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a6dc78b elementor-widget elementor-widget-image" data-id="a6dc78b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.10.2 - 29-01-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>													<a href="https://dev-mehdidigital.pantheonsite.io/product/short-sleeve-t-shirt/">
+							<img decoding="async" src="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/elementor/thumbs/glasses-category-img-2-q23g1c2zzf9j7ogp8g2a6giewtzu9gw5ktxkendldo.jpg" title="glasses-category-img-2" alt="glasses-category-img-2" class="elementor-animation-bob" loading="lazy" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-4ce31dd elementor-widget elementor-widget-heading" data-id="4ce31dd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">View all</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1d03c60 elementor-widget elementor-widget-heading" data-id="1d03c60" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">T-Shirts</h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-59861e6" data-id="59861e6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2241828 elementor-widget elementor-widget-image" data-id="2241828" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://dev-mehdidigital.pantheonsite.io/product/short-sleeve-t-shirt/">
+							<img decoding="async" width="510" height="335" src="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/retail-black-friday-small-banner-4-opt.jpg" class="elementor-animation-bob attachment-large size-large wp-image-92" alt="" loading="lazy" srcset="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/retail-black-friday-small-banner-4-opt.jpg 510w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/retail-black-friday-small-banner-4-opt-300x197.jpg 300w" sizes="(max-width: 510px) 100vw, 510px" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-efce032 elementor-widget elementor-widget-heading" data-id="efce032" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">View all</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a1c9e2d elementor-widget elementor-widget-heading" data-id="a1c9e2d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Children</h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0b1d0a3" data-id="0b1d0a3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5cc5713 elementor-widget elementor-widget-image" data-id="5cc5713" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://dev-mehdidigital.pantheonsite.io/product/short-sleeve-t-shirt/">
+							<img decoding="async" width="510" height="335" src="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/retail-black-friday-small-banner-1-opt.jpg" class="elementor-animation-bob attachment-large size-large wp-image-93" alt="" loading="lazy" srcset="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/retail-black-friday-small-banner-1-opt.jpg 510w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/retail-black-friday-small-banner-1-opt-300x197.jpg 300w" sizes="(max-width: 510px) 100vw, 510px" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-e48a516 elementor-widget elementor-widget-heading" data-id="e48a516" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">View all</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-531797d elementor-widget elementor-widget-heading" data-id="531797d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">T-Shirts</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-4106ff5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4106ff5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-afcd910" data-id="afcd910" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-48e5154 elementor-widget elementor-widget-image" data-id="48e5154" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://dev-mehdidigital.pantheonsite.io/product/short-sleeve-t-shirt/">
+							<img decoding="async" src="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/elementor/thumbs/glasses-category-img-1-q23heg5f2shvu74hg6biykcgalx9g4v9bx1w44k29o.jpg" title="glasses-category-img-1" alt="glasses-category-img-1" class="elementor-animation-bob" loading="lazy" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-b86f0eb elementor-widget elementor-widget-heading" data-id="b86f0eb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">View all</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7ddfd11 elementor-widget elementor-widget-heading" data-id="7ddfd11" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Sunglasses</h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-fafb147" data-id="fafb147" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-73fbcde elementor-widget elementor-widget-image" data-id="73fbcde" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://dev-mehdidigital.pantheonsite.io/product/short-sleeve-t-shirt/">
+							<img decoding="async" src="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/elementor/thumbs/retail-black-friday-small-banner-2-opt-q23hfmg5mc3scnf1l6lqkro70y4s2ij6hqeqpktcho.jpg" title="retail-black-friday-small-banner-2-opt" alt="retail-black-friday-small-banner-2-opt" class="elementor-animation-bob" loading="lazy" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-bf13046 elementor-widget elementor-widget-heading" data-id="bf13046" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">View all</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-871e2a9 elementor-widget elementor-widget-heading" data-id="871e2a9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Headphones</h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7a8e9c8" data-id="7a8e9c8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5a5e014 elementor-widget elementor-widget-image" data-id="5a5e014" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://dev-mehdidigital.pantheonsite.io/product/short-sleeve-t-shirt/">
+							<img decoding="async" src="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/elementor/thumbs/baner-flat-fashion-7-q23hgieo2pbjbe4mekf1xjlv81r9c821y4l90zhym4.jpg" title="baner-flat-fashion-7" alt="baner-flat-fashion-7" class="elementor-animation-bob" loading="lazy" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-8e6fc75 elementor-widget elementor-widget-heading" data-id="8e6fc75" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">View all</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-31afddc elementor-widget elementor-widget-heading" data-id="31afddc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">T-Shirts</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ff89903 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ff89903" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-38b7552" data-id="38b7552" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0b19f60 elementor-invisible elementor-widget elementor-widget-heading" data-id="0b19f60" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">TOP SALE ON THE WEEK</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5f09bb5 elementor-invisible elementor-widget elementor-widget-heading" data-id="5f09bb5" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Features Products</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f74671f elementor-invisible elementor-widget elementor-widget-heading" data-id="f74671f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">We have a wide selection of men's clothing in all styles and sizes</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-31e0a8b elementor-invisible elementor-widget elementor-widget-shortcode" data-id="31e0a8b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"><div class="woocommerce columns-4 "><ul class="products columns-4">
+<li class="product type-product post-35 status-publish first instock product_cat-jacket product_tag-black product_tag-jacket product_tag-men has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://dev-mehdidigital.pantheonsite.io/product/black-fashion-jacket/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/Mens-Standard-Fit-Sherpa-Fleece-Jacket01-600x764-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/Mens-Standard-Fit-Sherpa-Fleece-Jacket01-600x764-1-300x300.jpg 300w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/Mens-Standard-Fit-Sherpa-Fleece-Jacket01-600x764-1-150x150.jpg 150w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/Mens-Standard-Fit-Sherpa-Fleece-Jacket01-600x764-1-100x100.jpg 100w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/Mens-Standard-Fit-Sherpa-Fleece-Jacket01-600x764-1-50x50.jpg 50w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Black Fashion Jacket</h2><div class="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style="width:80%">Rated <strong class="rating">4.00</strong> out of 5</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#x62f;.&#x645;.</span>300.00</bdi></span></span>
+</a><a href="?add-to-cart=35" data-quantity="1" class="button wp-element-button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="35" data-product_sku="" aria-label="Add &ldquo;Black Fashion Jacket&rdquo; to your cart" rel="nofollow">Add to cart</a><div class="tinv-wraper woocommerce tinv-wishlist tinvwl-after-add-to-cart tinvwl-loop-button-wrapper tinvwl-woocommerce_after_shop_loop_item"
+	 data-tinvwl_product_id="35">
+	<div class="tinv-wishlist-clear"></div><a role="button" tabindex="0" name="Add to Wishlist" aria-label="Add to Wishlist" class="tinvwl_add_to_wishlist_button tinvwl-icon-heart  tinvwl-position-after tinvwl-loop" data-tinv-wl-list="[]" data-tinv-wl-product="35" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add"><span class="tinvwl_add_to_wishlist-text">Add to Wishlist</span></a><div class="tinv-wishlist-clear"></div>		<div class="tinvwl-tooltip">Add to Wishlist</div>
+</div>
+</li>
+<li class="product type-product post-103 status-publish instock product_cat-jacket product_tag-black product_tag-jacket product_tag-men has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://dev-mehdidigital.pantheonsite.io/product/black-fashion-jacket-copy/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/Mens-Standard-Fit-Heathered-Short-Sleeve-V-Neck-T-Shirt01-600x764-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/Mens-Standard-Fit-Heathered-Short-Sleeve-V-Neck-T-Shirt01-600x764-1-300x300.jpg 300w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/Mens-Standard-Fit-Heathered-Short-Sleeve-V-Neck-T-Shirt01-600x764-1-150x150.jpg 150w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/Mens-Standard-Fit-Heathered-Short-Sleeve-V-Neck-T-Shirt01-600x764-1-100x100.jpg 100w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/Mens-Standard-Fit-Heathered-Short-Sleeve-V-Neck-T-Shirt01-600x764-1-50x50.jpg 50w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Black Fashion Jacket (Copy)</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#x62f;.&#x645;.</span>300.00</bdi></span></span>
+</a><a href="?add-to-cart=103" data-quantity="1" class="button wp-element-button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="103" data-product_sku="" aria-label="Add &ldquo;Black Fashion Jacket (Copy)&rdquo; to your cart" rel="nofollow">Add to cart</a><div class="tinv-wraper woocommerce tinv-wishlist tinvwl-after-add-to-cart tinvwl-loop-button-wrapper tinvwl-woocommerce_after_shop_loop_item"
+	 data-tinvwl_product_id="103">
+	<div class="tinv-wishlist-clear"></div><a role="button" tabindex="0" name="Add to Wishlist" aria-label="Add to Wishlist" class="tinvwl_add_to_wishlist_button tinvwl-icon-heart  tinvwl-position-after tinvwl-loop" data-tinv-wl-list="[]" data-tinv-wl-product="103" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add"><span class="tinvwl_add_to_wishlist-text">Add to Wishlist</span></a><div class="tinv-wishlist-clear"></div>		<div class="tinvwl-tooltip">Add to Wishlist</div>
+</div>
+</li>
+<li class="product type-product post-104 status-publish instock product_cat-jacket product_tag-black product_tag-jacket product_tag-men has-post-thumbnail featured taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://dev-mehdidigital.pantheonsite.io/product/black-fashion-jacket-copy-copy/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/Mens-Standard-Fit-Short-Sleeve-Crew-T-Shirt01-600x764-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/Mens-Standard-Fit-Short-Sleeve-Crew-T-Shirt01-600x764-1-300x300.jpg 300w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/Mens-Standard-Fit-Short-Sleeve-Crew-T-Shirt01-600x764-1-150x150.jpg 150w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/Mens-Standard-Fit-Short-Sleeve-Crew-T-Shirt01-600x764-1-100x100.jpg 100w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/Mens-Standard-Fit-Short-Sleeve-Crew-T-Shirt01-600x764-1-50x50.jpg 50w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Black Fashion Jacket (Copy) (Copy)</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#x62f;.&#x645;.</span>300.00</bdi></span></span>
+</a><a href="?add-to-cart=104" data-quantity="1" class="button wp-element-button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="104" data-product_sku="" aria-label="Add &ldquo;Black Fashion Jacket (Copy) (Copy)&rdquo; to your cart" rel="nofollow">Add to cart</a><div class="tinv-wraper woocommerce tinv-wishlist tinvwl-after-add-to-cart tinvwl-loop-button-wrapper tinvwl-woocommerce_after_shop_loop_item"
+	 data-tinvwl_product_id="104">
+	<div class="tinv-wishlist-clear"></div><a role="button" tabindex="0" name="Add to Wishlist" aria-label="Add to Wishlist" class="tinvwl_add_to_wishlist_button tinvwl-icon-heart  tinvwl-position-after tinvwl-loop" data-tinv-wl-list="[]" data-tinv-wl-product="104" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add"><span class="tinvwl_add_to_wishlist-text">Add to Wishlist</span></a><div class="tinv-wishlist-clear"></div>		<div class="tinvwl-tooltip">Add to Wishlist</div>
+</div>
+</li>
+<li class="product type-product post-44 status-publish last instock product_cat-t-shirt product_tag-men product_tag-t-shirt has-post-thumbnail featured taxable shipping-taxable purchasable product-type-variable">
+	<a href="https://dev-mehdidigital.pantheonsite.io/product/short-sleeve-t-shirt/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/Mens-Standard-Fit-Crew-T-Shirt01-600x764-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/Mens-Standard-Fit-Crew-T-Shirt01-600x764-1-300x300.jpg 300w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/Mens-Standard-Fit-Crew-T-Shirt01-600x764-1-150x150.jpg 150w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/Mens-Standard-Fit-Crew-T-Shirt01-600x764-1-100x100.jpg 100w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/Mens-Standard-Fit-Crew-T-Shirt01-600x764-1-50x50.jpg 50w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Short Sleeve T-Shirt</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#x62f;.&#x645;.</span>110.00</bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#x62f;.&#x645;.</span>150.00</bdi></span></span>
+</a><a href="https://dev-mehdidigital.pantheonsite.io/product/short-sleeve-t-shirt/" data-quantity="1" class="button wp-element-button product_type_variable add_to_cart_button" data-product_id="44" data-product_sku="" aria-label="Select options for &ldquo;Short Sleeve T-Shirt&rdquo;" rel="nofollow">Select options</a><div class="tinv-wraper woocommerce tinv-wishlist tinvwl-after-add-to-cart tinvwl-loop-button-wrapper tinvwl-woocommerce_after_shop_loop_item"
+	 data-tinvwl_product_id="44">
+	<div class="tinv-wishlist-clear"></div><a role="button" tabindex="0" name="Add to Wishlist" aria-label="Add to Wishlist" class="tinvwl_add_to_wishlist_button tinvwl-icon-heart  tinvwl-position-after tinvwl-loop" data-tinv-wl-list="[]" data-tinv-wl-product="44" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[55,56,57,58,59,60,0]" data-tinv-wl-producttype="variable" data-tinv-wl-action="add"><span class="tinvwl_add_to_wishlist-text">Add to Wishlist</span></a><div class="tinv-wishlist-clear"></div>		<div class="tinvwl-tooltip">Add to Wishlist</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-f051882 elementor-align-center elementor-widget elementor-widget-button" data-id="f051882" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://dev-mehdidigital.pantheonsite.io/shop/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Shop Now</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9e75c47 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9e75c47" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a20dfee" data-id="a20dfee" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-4751a90 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4751a90" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1b6d476" data-id="1b6d476" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2d3eb62 elementor-invisible elementor-widget elementor-widget-heading" data-id="2d3eb62" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">What Our Client Says</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2b792c9 elementor-invisible elementor-widget elementor-widget-heading" data-id="2b792c9" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">We have a wide selection of men's clothing in all styles and sizes</h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7dfbbfb elementor-invisible" data-id="7dfbbfb" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5b639f1 elementor-widget elementor-widget-heading" data-id="5b639f1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">4.5</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-95da1bf elementor-star-rating--align-center elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="95da1bf" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.10.2 - 29-01-2023 */
+@charset "UTF-8";.elementor-star-rating{color:#ccd6df;font-family:eicons;display:inline-block}.elementor-star-rating i{display:inline-block;position:relative;font-style:normal;cursor:default}.elementor-star-rating i:before{content:"\e934";display:block;font-size:inherit;font-family:inherit;position:absolute;overflow:hidden;color:#f0ad4e;top:0;left:0}.elementor-star-rating .elementor-star-empty:before{content:none}.elementor-star-rating .elementor-star-1:before{width:10%}.elementor-star-rating .elementor-star-2:before{width:20%}.elementor-star-rating .elementor-star-3:before{width:30%}.elementor-star-rating .elementor-star-4:before{width:40%}.elementor-star-rating .elementor-star-5:before{width:50%}.elementor-star-rating .elementor-star-6:before{width:60%}.elementor-star-rating .elementor-star-7:before{width:70%}.elementor-star-rating .elementor-star-8:before{width:80%}.elementor-star-rating .elementor-star-9:before{width:90%}.elementor-star-rating__wrapper{display:flex;align-items:center}.elementor-star-rating__title{margin-right:10px}.elementor-star-rating--align-right .elementor-star-rating__wrapper{text-align:right;justify-content:flex-end}.elementor-star-rating--align-left .elementor-star-rating__wrapper{text-align:left;justify-content:flex-start}.elementor-star-rating--align-center .elementor-star-rating__wrapper{text-align:center;justify-content:center}.elementor-star-rating--align-justify .elementor-star-rating__title{margin-right:auto}@media (max-width:1024px){.elementor-star-rating-tablet--align-right .elementor-star-rating__wrapper{text-align:right;justify-content:flex-end}.elementor-star-rating-tablet--align-left .elementor-star-rating__wrapper{text-align:left;justify-content:flex-start}.elementor-star-rating-tablet--align-center .elementor-star-rating__wrapper{text-align:center;justify-content:center}.elementor-star-rating-tablet--align-justify .elementor-star-rating__title{margin-right:auto}}@media (max-width:767px){.elementor-star-rating-mobile--align-right .elementor-star-rating__wrapper{text-align:right;justify-content:flex-end}.elementor-star-rating-mobile--align-left .elementor-star-rating__wrapper{text-align:left;justify-content:flex-start}.elementor-star-rating-mobile--align-center .elementor-star-rating__wrapper{text-align:center;justify-content:center}.elementor-star-rating-mobile--align-justify .elementor-star-rating__title{margin-right:auto}}.last-star{letter-spacing:0}.elementor--star-style-star_unicode .elementor-star-rating{font-family:Arial,Helvetica,sans-serif}.elementor--star-style-star_unicode .elementor-star-rating i:not(.elementor-star-empty):before{content:"?"}</style>
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="4.5/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE933;</i><i class="elementor-star-full">&#xE933;</i><i class="elementor-star-full">&#xE933;</i><i class="elementor-star-full">&#xE933;</i><i class="elementor-star-5">&#xE933;</i> <span itemprop="ratingValue" class="elementor-screen-only">4.5/5</span></div>		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e2dc2cb elementor-widget elementor-widget-heading" data-id="e2dc2cb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Averge Customer Rating</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-1475634 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="1475634" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7306d4d" data-id="7306d4d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c8e2b2a elementor-widget elementor-widget-testimonial" data-id="c8e2b2a" data-element_type="widget" data-widget_type="testimonial.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.10.2 - 29-01-2023 */
+.elementor-testimonial-wrapper{overflow:hidden;text-align:center}.elementor-testimonial-wrapper .elementor-testimonial-content{font-size:1.3em;margin-bottom:20px}.elementor-testimonial-wrapper .elementor-testimonial-name{line-height:1.5;display:block}.elementor-testimonial-wrapper .elementor-testimonial-job{font-size:.85em;display:block}.elementor-testimonial-wrapper .elementor-testimonial-meta{width:100%;line-height:1}.elementor-testimonial-wrapper .elementor-testimonial-meta-inner{display:inline-block}.elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-details,.elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-image{display:table-cell;vertical-align:middle}.elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-image img{width:60px;height:60px;border-radius:50%;-o-object-fit:cover;object-fit:cover;max-width:none}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-image{padding-right:15px}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-details{text-align:left}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-details,.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{display:block}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{margin-bottom:20px}</style>		<div class="elementor-testimonial-wrapper">
+							<div class="elementor-testimonial-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</div>
+			
+						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
+				<div class="elementor-testimonial-meta-inner">
+											<div class="elementor-testimonial-image">
+							<img decoding="async" width="250" height="250" src="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/christian-buehner-DItYlc26zVI-unsplash.jpg" class="attachment-full size-full wp-image-150" alt="" loading="lazy" srcset="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/christian-buehner-DItYlc26zVI-unsplash.jpg 250w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/christian-buehner-DItYlc26zVI-unsplash-150x150.jpg 150w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/christian-buehner-DItYlc26zVI-unsplash-100x100.jpg 100w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/christian-buehner-DItYlc26zVI-unsplash-50x50.jpg 50w" sizes="(max-width: 250px) 100vw, 250px" />						</div>
+					
+										<div class="elementor-testimonial-details">
+														<div class="elementor-testimonial-name">John Doe</div>
+																						<div class="elementor-testimonial-job">Designer</div>
+													</div>
+									</div>
+			</div>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-8ed4987" data-id="8ed4987" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-19d2187 elementor-widget elementor-widget-testimonial" data-id="19d2187" data-element_type="widget" data-widget_type="testimonial.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-testimonial-wrapper">
+							<div class="elementor-testimonial-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</div>
+			
+						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
+				<div class="elementor-testimonial-meta-inner">
+											<div class="elementor-testimonial-image">
+							<img decoding="async" width="250" height="250" src="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/rana-sawalha-IhuHLIxS_Tk-unsplash.jpg" class="attachment-full size-full wp-image-156" alt="" loading="lazy" srcset="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/rana-sawalha-IhuHLIxS_Tk-unsplash.jpg 250w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/rana-sawalha-IhuHLIxS_Tk-unsplash-150x150.jpg 150w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/rana-sawalha-IhuHLIxS_Tk-unsplash-100x100.jpg 100w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/rana-sawalha-IhuHLIxS_Tk-unsplash-50x50.jpg 50w" sizes="(max-width: 250px) 100vw, 250px" />						</div>
+					
+										<div class="elementor-testimonial-details">
+														<div class="elementor-testimonial-name">Whilliam<br>Chen</div>
+																						<div class="elementor-testimonial-job">Designer</div>
+													</div>
+									</div>
+			</div>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-dbf52ab" data-id="dbf52ab" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e8cd884 elementor-widget elementor-widget-testimonial" data-id="e8cd884" data-element_type="widget" data-widget_type="testimonial.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-testimonial-wrapper">
+							<div class="elementor-testimonial-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</div>
+			
+						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
+				<div class="elementor-testimonial-meta-inner">
+											<div class="elementor-testimonial-image">
+							<img decoding="async" width="250" height="250" src="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/zahir-namane-hwc7eIQiTCE-unsplash.jpg" class="attachment-full size-full wp-image-157" alt="" loading="lazy" srcset="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/zahir-namane-hwc7eIQiTCE-unsplash.jpg 250w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/zahir-namane-hwc7eIQiTCE-unsplash-150x150.jpg 150w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/zahir-namane-hwc7eIQiTCE-unsplash-100x100.jpg 100w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/zahir-namane-hwc7eIQiTCE-unsplash-50x50.jpg 50w" sizes="(max-width: 250px) 100vw, 250px" />						</div>
+					
+										<div class="elementor-testimonial-details">
+														<div class="elementor-testimonial-name">Noah Patel</div>
+																						<div class="elementor-testimonial-job">Designer</div>
+													</div>
+									</div>
+			</div>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ca8a17d elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="ca8a17d" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4dcae17" data-id="4dcae17" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-18a1d43 elementor-invisible elementor-widget elementor-widget-heading" data-id="18a1d43" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Follow Us On Instagram</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a2c61c8 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="a2c61c8" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;4&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.10.2 - 29-01-2023 */
+.elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}</style>		<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/1.jpg" alt="1" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/4.jpg" alt="4" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/5.jpg" alt="5" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/6.jpg" alt="6" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/8.jpg" alt="8" /></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													<div class="elementor-swiper-button elementor-swiper-button-prev">
+						<i aria-hidden="true" class="eicon-chevron-left"></i>						<span class="elementor-screen-only">Previous</span>
+					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next">
+						<i aria-hidden="true" class="eicon-chevron-right"></i>						<span class="elementor-screen-only">Next</span>
+					</div>
+									</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2eded46 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2eded46" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ce13cf1" data-id="ce13cf1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-0f6b440 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0f6b440" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a544aba" data-id="a544aba" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9e43e0c elementor-widget elementor-widget-image" data-id="9e43e0c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="512" height="512" src="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/affaires.png" class="attachment-large size-large wp-image-256" alt="" loading="lazy" srcset="https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/affaires.png 512w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/affaires-300x300.png 300w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/affaires-150x150.png 150w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/affaires-100x100.png 100w, https://dev-mehdidigital.pantheonsite.io/wp-content/uploads/2023/02/affaires-50x50.png 50w" sizes="(max-width: 512px) 100vw, 512px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-26f74c5 elementor-widget elementor-widget-heading" data-id="26f74c5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Follow us on social media</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ac3ebc1 e-grid-align-left elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="ac3ebc1" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.10.2 - 29-01-2023 */
+.elementor-widget-social-icons.elementor-grid-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-mobile-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-tablet-0 .elementor-widget-container{line-height:1;font-size:0}.elementor-widget-social-icons:not(.elementor-grid-0):not(.elementor-grid-tablet-0):not(.elementor-grid-mobile-0) .elementor-grid{display:inline-grid}.elementor-widget-social-icons .elementor-grid{grid-column-gap:var(--grid-column-gap,5px);grid-row-gap:var(--grid-row-gap,5px);grid-template-columns:var(--grid-template-columns);justify-content:var(--justify-content,center);justify-items:var(--justify-content,center)}.elementor-icon.elementor-social-icon{font-size:var(--icon-size,25px);line-height:var(--icon-size,25px);width:calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)));height:calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)))}.elementor-social-icon{--e-social-icon-icon-color:#fff;display:inline-flex;background-color:#818a91;align-items:center;justify-content:center;text-align:center;cursor:pointer}.elementor-social-icon i{color:var(--e-social-icon-icon-color)}.elementor-social-icon svg{fill:var(--e-social-icon-icon-color)}.elementor-social-icon:last-child{margin:0}.elementor-social-icon:hover{opacity:.9;color:#fff}.elementor-social-icon-android{background-color:#a4c639}.elementor-social-icon-apple{background-color:#999}.elementor-social-icon-behance{background-color:#1769ff}.elementor-social-icon-bitbucket{background-color:#205081}.elementor-social-icon-codepen{background-color:#000}.elementor-social-icon-delicious{background-color:#39f}.elementor-social-icon-deviantart{background-color:#05cc47}.elementor-social-icon-digg{background-color:#005be2}.elementor-social-icon-dribbble{background-color:#ea4c89}.elementor-social-icon-elementor{background-color:#d30c5c}.elementor-social-icon-envelope{background-color:#ea4335}.elementor-social-icon-facebook,.elementor-social-icon-facebook-f{background-color:#3b5998}.elementor-social-icon-flickr{background-color:#0063dc}.elementor-social-icon-foursquare{background-color:#2d5be3}.elementor-social-icon-free-code-camp,.elementor-social-icon-freecodecamp{background-color:#006400}.elementor-social-icon-github{background-color:#333}.elementor-social-icon-gitlab{background-color:#e24329}.elementor-social-icon-globe{background-color:#818a91}.elementor-social-icon-google-plus,.elementor-social-icon-google-plus-g{background-color:#dd4b39}.elementor-social-icon-houzz{background-color:#7ac142}.elementor-social-icon-instagram{background-color:#262626}.elementor-social-icon-jsfiddle{background-color:#487aa2}.elementor-social-icon-link{background-color:#818a91}.elementor-social-icon-linkedin,.elementor-social-icon-linkedin-in{background-color:#0077b5}.elementor-social-icon-medium{background-color:#00ab6b}.elementor-social-icon-meetup{background-color:#ec1c40}.elementor-social-icon-mixcloud{background-color:#273a4b}.elementor-social-icon-odnoklassniki{background-color:#f4731c}.elementor-social-icon-pinterest{background-color:#bd081c}.elementor-social-icon-product-hunt{background-color:#da552f}.elementor-social-icon-reddit{background-color:#ff4500}.elementor-social-icon-rss{background-color:#f26522}.elementor-social-icon-shopping-cart{background-color:#4caf50}.elementor-social-icon-skype{background-color:#00aff0}.elementor-social-icon-slideshare{background-color:#0077b5}.elementor-social-icon-snapchat{background-color:#fffc00}.elementor-social-icon-soundcloud{background-color:#f80}.elementor-social-icon-spotify{background-color:#2ebd59}.elementor-social-icon-stack-overflow{background-color:#fe7a15}.elementor-social-icon-steam{background-color:#00adee}.elementor-social-icon-stumbleupon{background-color:#eb4924}.elementor-social-icon-telegram{background-color:#2ca5e0}.elementor-social-icon-thumb-tack{background-color:#1aa1d8}.elementor-social-icon-tripadvisor{background-color:#589442}.elementor-social-icon-tumblr{background-color:#35465c}.elementor-social-icon-twitch{background-color:#6441a5}.elementor-social-icon-twitter{background-color:#1da1f2}.elementor-social-icon-viber{background-color:#665cac}.elementor-social-icon-vimeo{background-color:#1ab7ea}.elementor-social-icon-vk{background-color:#45668e}.elementor-social-icon-weibo{background-color:#dd2430}.elementor-social-icon-weixin{background-color:#31a918}.elementor-social-icon-whatsapp{background-color:#25d366}.elementor-social-icon-wordpress{background-color:#21759b}.elementor-social-icon-xing{background-color:#026466}.elementor-social-icon-yelp{background-color:#af0606}.elementor-social-icon-youtube{background-color:#cd201f}.elementor-social-icon-500px{background-color:#0099e5}.elementor-shape-rounded .elementor-icon.elementor-social-icon{border-radius:10%}.elementor-shape-circle .elementor-icon.elementor-social-icon{border-radius:50%}</style>		<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-e7be28b" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i class="fab fa-facebook"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-7ff46a6" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i class="fab fa-twitter"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-42afa8c" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</span>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-8274ea1" data-id="8274ea1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-89705d5 elementor-widget elementor-widget-heading" data-id="89705d5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Explore More</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e1e4ff3 elementor-invisible elementor-widget elementor-widget-heading" data-id="e1e4ff3" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://dev-mehdidigital.pantheonsite.io/">.Home</a></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0a55ed3 elementor-invisible elementor-widget elementor-widget-heading" data-id="0a55ed3" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://dev-mehdidigital.pantheonsite.io/contact/">.Contact Us</a></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-11b6586 elementor-invisible elementor-widget elementor-widget-heading" data-id="11b6586" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://dev-mehdidigital.pantheonsite.io/?page_id=3">.Privacy Policy</a></h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-78a38d5" data-id="78a38d5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5d4e003 elementor-widget elementor-widget-heading" data-id="5d4e003" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Top Categories</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5d5994f elementor-invisible elementor-widget elementor-widget-heading" data-id="5d5994f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://dev-mehdidigital.pantheonsite.io/product/short-sleeve-t-shirt/">.T-Shirts</a></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b7fa689 elementor-invisible elementor-widget elementor-widget-heading" data-id="b7fa689" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://dev-mehdidigital.pantheonsite.io/product/black-fashion-jacket-copy-copy/">.Jackets</a></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a4bf9f6 elementor-invisible elementor-widget elementor-widget-heading" data-id="a4bf9f6" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://dev-mehdidigital.pantheonsite.io/product/short-sleeve-t-shirt/">.Sunglasses</a></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f9495db elementor-invisible elementor-widget elementor-widget-heading" data-id="f9495db" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://dev-mehdidigital.pantheonsite.io/product/short-sleeve-t-shirt/">.HeadPhones</a></h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-03f29af elementor-widget elementor-widget-heading" data-id="03f29af" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Add Your Heading Text Here</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+				<div class="post-tags">
+					</div>
+			</div>
+
+	<section id="comments" class="comments-area">
+
+	
+
+
+</section><!-- .comments-area -->
+</main>
+
+	<footer id="site-footer" class="site-footer dynamic-footer footer-has-copyright" role="contentinfo">
+	<div class="footer-inner">
+		<div class="site-branding show-logo">
+					</div>
+
+		
+					<div class="copyright show">
+				<p>All rights reserved</p>
+			</div>
+			</div>
+</footer>
+
+<script type="text/template" id="tmpl-elementor-templates-modal__header">
+	<div class="elementor-templates-modal__header__logo-area"></div>
+	<div class="elementor-templates-modal__header__menu-area"></div>
+	<div class="elementor-templates-modal__header__items-area">
+		<# if ( closeType ) { #>
+			<div class="elementor-templates-modal__header__close elementor-templates-modal__header__close--{{{ closeType }}} elementor-templates-modal__header__item">
+				<# if ( 'skip' === closeType ) { #>
+				<span>Skip</span>
+				<# } #>
+				<i class="eicon-close" aria-hidden="true" title="Close"></i>
+				<span class="elementor-screen-only">Close</span>
+			</div>
+		<# } #>
+		<div id="elementor-template-library-header-tools"></div>
+	</div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-templates-modal__header__logo">
+	<span class="elementor-templates-modal__header__logo__icon-wrapper e-logo-wrapper">
+		<i class="eicon-elementor"></i>
+	</span>
+	<span class="elementor-templates-modal__header__logo__title">{{{ title }}}</span>
+</script>
+<script type="text/template" id="tmpl-elementor-finder">
+	<div id="elementor-finder__search">
+		<i class="eicon-search"></i>
+		<input id="elementor-finder__search__input" placeholder="Type to find anything in Elementor" autocomplete="off">
+	</div>
+	<div id="elementor-finder__content"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder-results-container">
+	<div id="elementor-finder__no-results">No Results Found</div>
+	<div id="elementor-finder__results"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__category">
+	<div class="elementor-finder__results__category__title">{{{ title }}}</div>
+	<div class="elementor-finder__results__category__items"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__item">
+	<a href="{{ url }}" class="elementor-finder__results__item__link">
+		<div class="elementor-finder__results__item__icon">
+			<i class="eicon-{{{ icon }}}"></i>
+		</div>
+		<div class="elementor-finder__results__item__title">{{{ title }}}</div>
+		<# if ( description ) { #>
+			<div class="elementor-finder__results__item__description">- {{{ description }}}</div>
+		<# } #>
+
+		<# if ( lock ) { #>
+		<div class="elementor-finder__results__item__badge"><i class="{{{ lock.badge.icon }}}"></i>{{ lock.badge.text }}</div>
+		<# } #>
+	</a>
+	<# if ( actions.length ) { #>
+		<div class="elementor-finder__results__item__actions">
+		<# jQuery.each( actions, function() { #>
+			<a class="elementor-finder__results__item__action elementor-finder__results__item__action--{{ this.name }}" href="{{ this.url }}" target="_blank">
+				<i class="eicon-{{{ this.icon }}}"></i>
+			</a>
+		<# } ); #>
+		</div>
+	<# } #>
+</script>
+	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='e-animations-css' href='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.10.2' media='all' />
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.3' id='swv-js'></script>
+<script id='contact-form-7-js-extra'>
+var wpcf7 = {"api":{"root":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-json\/","namespace":"contact-form-7\/v1"}};
+</script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.3' id='contact-form-7-js'></script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.3.0' id='jquery-blockui-js'></script>
+<script id='wc-add-to-cart-js-extra'>
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/dev-mehdidigital.pantheonsite.io\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.3.0' id='wc-add-to-cart-js'></script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.3.0' id='js-cookie-js'></script>
+<script id='woocommerce-js-extra'>
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.3.0' id='woocommerce-js'></script>
+<script id='wc-cart-fragments-js-extra'>
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_e53fd98d2581f5f3f7b52fc1b5f658be","fragment_name":"wc_fragments_e53fd98d2581f5f3f7b52fc1b5f658be","request_timeout":"5000"};
+</script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.3.0' id='wc-cart-fragments-js'></script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-includes/js/underscore.min.js?ver=1.13.4' id='underscore-js'></script>
+<script id='wp-util-js-extra'>
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+</script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-includes/js/wp-util.min.js?ver=6.1.1' id='wp-util-js'></script>
+<script id='wp-api-request-js-extra'>
+var wpApiSettings = {"root":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-json\/","nonce":"34ad5b0ed3","versionString":"wp\/v2\/"};
+</script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-includes/js/api-request.min.js?ver=6.1.1' id='wp-api-request-js'></script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
+<script id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-includes/js/dist/url.min.js?ver=bb0ef862199bcae73aa7' id='wp-url-js'></script>
+<script id='wp-api-fetch-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2023-02-10 13:19:27+0000","generator":"GlotPress\/4.0.0-alpha.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"fr"},"You are probably offline.":["Vous \u00eates probablement hors ligne."],"Media upload failed. If this is a photo or a large image, please scale it down and try again.":["Le t\u00e9l\u00e9versement du m\u00e9dia a \u00e9chou\u00e9. S\u2019il s\u2019agit d\u2019une photo ou d\u2019une grande image, veuillez la redimensionner puis r\u00e9essayer."],"The response is not a valid JSON response.":["La r\u00e9ponse n\u2019est pas une r\u00e9ponse JSON valide."],"An unknown error occurred.":["Une erreur inconnue est survenue."]}},"comment":{"reference":"wp-includes\/js\/dist\/api-fetch.js"}} );
+</script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-includes/js/dist/api-fetch.min.js?ver=bc0029ca2c943aec5311' id='wp-api-fetch-js'></script>
+<script id='wp-api-fetch-js-after'>
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://dev-mehdidigital.pantheonsite.io/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "34ad5b0ed3" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "https://dev-mehdidigital.pantheonsite.io/wp-admin/admin-ajax.php?action=rest-nonce";
+</script>
+<script id='woo-variation-swatches-js-extra'>
+var woo_variation_swatches_options = {"show_variation_label":"1","clear_on_reselect":"","variation_label_separator":":","is_mobile":"","show_variation_stock":"","stock_label_threshold":"5","cart_redirect_after_add":"no","enable_ajax_add_to_cart":"yes","cart_url":"https:\/\/dev-mehdidigital.pantheonsite.io\/cart\/","is_cart":""};
+</script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/woo-variation-swatches/assets/js/frontend.min.js?ver=1676138299' id='woo-variation-swatches-js'></script>
+<script id='tinvwl-js-extra'>
+var tinvwl_add_to_wishlist = {"text_create":"Create New","text_already_in":"{product_name} already in Wishlist","simple_flow":"","hide_zero_counter":"","i18n_make_a_selection_text":"Please select some product options before adding this product to your wishlist.","tinvwl_break_submit":"No items or actions are selected.","tinvwl_clipboard":"Copied!","allow_parent_variable":"","block_ajax_wishlists_data":"","update_wishlists_data":"","hash_key":"ti_wishlist_data_e53fd98d2581f5f3f7b52fc1b5f658be","nonce":"34ad5b0ed3","rest_root":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-json\/","plugin_url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-content\/plugins\/ti-woocommerce-wishlist\/","wc_ajax_url":"\/?wc-ajax=tinvwl","stats":"","popup_timer":"6000"};
+</script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/ti-woocommerce-wishlist/assets/js/public.min.js?ver=2.3.0' id='tinvwl-js'></script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0' id='hello-theme-frontend-js'></script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2' id='jquery-ui-mouse-js'></script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2' id='jquery-ui-draggable-js'></script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-includes/js/backbone.min.js?ver=1.4.1' id='backbone-js'></script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js?ver=2.4.5.e1' id='backbone-marionette-js'></script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/elementor/assets/lib/backbone/backbone.radio.min.js?ver=1.0.4' id='backbone-radio-js'></script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/elementor/assets/js/common-modules.min.js?ver=3.10.2' id='elementor-common-modules-js'></script>
+<script id='elementor-web-cli-js-before'>
+var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-json\/","assets":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"34ad5b0ed3","version":"3.10.2"};
+var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-json\/","assets":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"34ad5b0ed3","version":"3.10.2"};
+</script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/elementor/assets/js/web-cli.min.js?ver=3.10.2' id='elementor-web-cli-js'></script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0' id='elementor-dialog-js'></script>
+<script id='elementor-dev-tools-js-before'>
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.10.2"}};
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.10.2"}};
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.10.2"}};
+</script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/elementor/assets/js/dev-tools.min.js?ver=3.10.2' id='elementor-dev-tools-js'></script>
+<script id='elementor-common-js-before'>
+var elementorCommonConfig = {"version":"3.10.2","isRTL":false,"isDebug":false,"isElementorDebug":false,"activeModules":["ajax","finder","connect","event-tracker"],"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_hidden_wordpress_widgets":true,"hello-theme-header-footer":true,"landing-pages":true,"kit-elements-defaults":true},"urls":{"assets":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-content\/plugins\/elementor\/assets\/","rest":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-json\/"},"filesUpload":{"unfilteredFiles":true},"library_connect":{"is_connected":true,"subscription_plans":{"0":{"label":null,"promotion_url":null,"color":null},"1":{"label":"Pro","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"},"20":{"label":"Expert","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=goexpert","color":"#010051"}},"base_access_level":0,"current_access_level":0},"ajax":{"url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/admin-ajax.php","nonce":"dc52e6c7ee"},"finder":{"data":{"edit":{"title":"Edit","dynamic":true,"name":"edit"},"general":{"title":"General","dynamic":false,"items":{"saved-templates":{"title":"Saved Templates","icon":"library-save","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=library","keywords":["template","section","page","library"]},"system-info":{"title":"System Info","icon":"info-circle-o","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/admin.php?page=elementor-system-info","keywords":["system","info","environment","elementor"]},"role-manager":{"title":"Role Manager","icon":"person","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/admin.php?page=elementor-role-manager","keywords":["role","manager","user","elementor"]},"knowledge-base":{"title":"Knowledge Base","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/admin.php?page=go_knowledge_base_site","keywords":["help","knowledge","docs","elementor"]},"theme-builder":{"title":"Theme Builder","icon":"library-save","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/admin.php?page=elementor-app&ver=3.10.2#site-editor\/promotion","keywords":["template","header","footer","single","archive","search","404","library"]},"kit-library":{"title":"Kit Library","icon":"kit-parts","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/admin.php?page=elementor-app&ver=3.10.2#\/kit-library","keywords":["kit library","kit","library","site parts","parts","assets","templates"]}},"name":"general"},"create":{"title":"Create","dynamic":false,"items":{"page":{"title":"Add New Page Template","icon":"plus-circle-o","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=page&_wpnonce=fbc09968ff","keywords":["Add New Page Template","post","page","template","new","create"]},"section":{"title":"Add New Section","icon":"plus-circle-o","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=section&_wpnonce=fbc09968ff","keywords":["Add New Section","post","page","template","new","create"]},"wp-post":{"title":"Add New Post","icon":"plus-circle-o","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/edit.php?action=elementor_new_post&post_type=post&template_type=wp-post&_wpnonce=fbc09968ff","keywords":["Add New Post","post","page","template","new","create"]},"wp-page":{"title":"Add New Page","icon":"plus-circle-o","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/edit.php?action=elementor_new_post&post_type=page&template_type=wp-page&_wpnonce=fbc09968ff","keywords":["Add New Page","post","page","template","new","create"]},"landing-page":{"title":"Add New Landing Page","icon":"plus-circle-o","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/edit.php?action=elementor_new_post&post_type=e-landing-page&template_type=landing-page&_wpnonce=fbc09968ff#library","keywords":["Add New Landing Page","post","page","template","new","create"]}},"name":"create"},"site":{"title":"Site","dynamic":false,"items":{"homepage":{"title":"Homepage","url":"https:\/\/dev-mehdidigital.pantheonsite.io","icon":"home-heart","keywords":["home","page"]},"wordpress-dashboard":{"title":"Dashboard","icon":"dashboard","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/","keywords":["dashboard","wordpress"]},"wordpress-menus":{"title":"Menus","icon":"wordpress","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/nav-menus.php","keywords":["menu","wordpress"]},"wordpress-themes":{"title":"Themes","icon":"wordpress","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/themes.php","keywords":["themes","wordpress"]},"wordpress-customizer":{"title":"Customizer","icon":"wordpress","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/customize.php","keywords":["customizer","wordpress"]},"wordpress-plugins":{"title":"Plugins","icon":"wordpress","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/plugins.php","keywords":["plugins","wordpress"]},"wordpress-users":{"title":"Users","icon":"wordpress","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/users.php","keywords":["users","profile","wordpress"]}},"name":"site"},"settings":{"title":"Settings","dynamic":false,"items":{"general-settings":{"title":"General Settings","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/admin.php?page=elementor","keywords":["general","settings","elementor"]},"advanced":{"title":"Advanced","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/admin.php?page=elementor#tab-advanced","keywords":["advanced","settings","elementor"]},"experiments":{"title":"Experiments","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/admin.php?page=elementor#tab-experiments","keywords":["settings","elementor","experiments"]}},"name":"settings"},"tools":{"title":"Tools","dynamic":false,"items":{"tools":{"title":"Tools","icon":"tools","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/admin.php?page=elementor-tools","keywords":["tools","regenerate css","safe mode","debug bar","sync library","elementor"]},"replace-url":{"title":"Replace URL","icon":"tools","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/admin.php?page=elementor-tools#tab-replace_url","keywords":["tools","replace url","domain","elementor"]},"maintenance-mode":{"title":"Maintenance Mode","icon":"tools","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/admin.php?page=elementor-tools#tab-maintenance_mode","keywords":["tools","maintenance","coming soon","elementor"]},"import-export":{"title":"Import Export","icon":"import-export","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/admin.php?page=elementor-tools#tab-import-export-kit","keywords":["tools","import export","import","export","kit"]},"version-control":{"title":"Version Control","icon":"time-line","url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/admin.php?page=elementor-tools#tab-versions","keywords":["tools","version","control","rollback","beta","elementor"]}},"name":"tools"}}},"connect":[],"event-tracker":{"isUserDataShared":false}};
+</script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/elementor/assets/js/common.min.js?ver=3.10.2' id='elementor-common-js'></script>
+<script id='elementor-app-loader-js-before'>
+var elementorAppConfig = {"menu_url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/admin.php?page=elementor-app&ver=3.10.2#site-editor\/promotion","assets_url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-content\/plugins\/elementor\/assets\/","return_url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/","hasPro":false,"admin_url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/","login_url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-login.php","base_url":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/admin.php?page=elementor-app&ver=3.10.2","site-editor":[],"import-export":[],"kit-library":[],"onboarding":[]};
+</script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/elementor/assets/js/app-loader.min.js?ver=3.10.2' id='elementor-app-loader-js'></script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.10.2' id='elementor-webpack-runtime-js'></script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.10.2' id='elementor-frontend-modules-js'></script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.10.2","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_hidden_wordpress_widgets":true,"hello-theme-header-footer":true,"landing-pages":true,"kit-elements-defaults":true},"urls":{"assets":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":61,"title":"MehdiDigital","excerpt":"","featuredImage":false},"user":{"roles":["administrator"]}};
+</script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.10.2' id='elementor-frontend-js'></script>
+<script id='elementor-admin-bar-js-before'>
+var elementorAdminBarConfig = {"elementor_edit_page":{"id":"elementor_edit_page","title":"Edit with Elementor","href":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/post.php?post=61&action=elementor","children":{"62":{"id":"elementor_site_settings","title":"Site Settings","sub_title":"Site","href":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/post.php?post=61&action=elementor#e:run:panel\/global\/open","class":"elementor-site-settings","parent_class":"elementor-second-section"},"63":{"id":"elementor_app_site_editor","title":"Theme Builder","sub_title":"Site","href":"https:\/\/dev-mehdidigital.pantheonsite.io\/wp-admin\/admin.php?page=elementor-app&ver=3.10.2#site-editor\/promotion","class":"elementor-app-link","parent_class":"elementor-second-section"}}}};
+</script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-content/plugins/elementor/assets/js/elementor-admin-bar.min.js?ver=3.10.2' id='elementor-admin-bar-js'></script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-includes/js/hoverintent-js.min.js?ver=2.2.1' id='hoverintent-js-js'></script>
+<script src='https://dev-mehdidigital.pantheonsite.io/wp-includes/js/admin-bar.min.js?ver=6.1.1' id='admin-bar-js'></script>
+
+</body>
+</html>
